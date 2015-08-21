@@ -1,3 +1,0 @@
-from jinlo/gitskill 
-from jinlo2/gitskill2
-
